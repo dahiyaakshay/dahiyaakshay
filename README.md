@@ -3,7 +3,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on Europe Consumer Market Analysis for an early-stage start-up<br><br>🌱 I’m currently learning Apache Kafka<br><br>👨‍💻 All of my projects are available at https://www.akshaydahiya.com/projects<br><br>📝 I regularly write articles on https://www.akshaydahiya.com/blogs<br><br>💬 Ask me about Data Analysis<br><br>📫 How to reach me akddme@gmail.com<br><br>📄 Know about my experiences https://www.akshaydahiya.com/cv
+🔭 I’m currently working on Europe Consumer Market Analysis for an early-stage start-up<br><br>🌱 I’m currently learning Apache Kafka<br><br>
 
 
 ## 🌐 Socials:
