@@ -1,37 +1,34 @@
-<h2 align="left">Hi 👋! My name is Akshay and I'm a Data Analyst from India</h2>
+<h2 align="left">Hi 👋! My name is Akshay, and I’m an AI-focused systems builder working at the intersection of marketing, retrieval engineering, and generative AI.</h2>
 
 ###
 
 # 💫 About Me:
-🔭 I’m currently building AI-native marketing intelligence systems focused on how brands are retrieved, represented, and recommended inside generative AI environments.
+🔭 I’m currently building **AI-native marketing intelligence systems** focused on how brands are retrieved, represented, and recommended inside generative AI environments.
 
-My current work includes:
+---
 
-MarAI — AI-powered marketing asset orchestration & workflow automation
+## 🏗 Current Projects
 
-RetrieveAI — Scoped-first AI Retrieval Intelligence Engine
+- **MarAI** — AI-powered marketing asset orchestration & workflow automation  
+- **RetrieveAI** — Scoped-first AI Retrieval Intelligence Engine  
+- **RankScan** — Multi-provider AI visibility monitoring platform  
+- **Experimental AI-driven marketing infrastructure tools** focused on structured data, retrieval optimization, and LLM-native commerce  
 
-RankScan — Multi-provider AI visibility monitoring platform
+---
 
-Experimental AI-driven marketing infrastructure tools focused on structured data, retrieval optimization, and LLM-native commerce
+## 🧠 System Design Interests
 
 I’m actively designing systems around:
 
-Retrieval engineering (beyond SEO)
+- Retrieval engineering (beyond SEO)  
+- Deterministic LLM simulation  
+- AI visibility scoring  
+- Prompt intelligence monitoring  
+- Structured product & entity modeling  
+- AI-era commerce readiness  
+- Infrastructure-grade backend architectures  
 
-Deterministic LLM simulation
-
-AI visibility scoring
-
-Prompt intelligence monitoring
-
-Structured product & entity modeling
-
-AI-era commerce readiness
-
-Infrastructure-grade backend architectures
-
-My focus is on building marketing tools that operate inside the LLM ecosystem — not outside it.
+---
 
 
 ## 🌐 Socials:
