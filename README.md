@@ -3,7 +3,35 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on Europe Consumer Market Analysis for an early-stage start-up<br><br>🌱 I’m currently learning Apache Kafka<br><br>
+🔭 I’m currently building AI-native marketing intelligence systems focused on how brands are retrieved, represented, and recommended inside generative AI environments.
+
+My current work includes:
+
+MarAI — AI-powered marketing asset orchestration & workflow automation
+
+RetrieveAI — Scoped-first AI Retrieval Intelligence Engine
+
+RankScan — Multi-provider AI visibility monitoring platform
+
+Experimental AI-driven marketing infrastructure tools focused on structured data, retrieval optimization, and LLM-native commerce
+
+I’m actively designing systems around:
+
+Retrieval engineering (beyond SEO)
+
+Deterministic LLM simulation
+
+AI visibility scoring
+
+Prompt intelligence monitoring
+
+Structured product & entity modeling
+
+AI-era commerce readiness
+
+Infrastructure-grade backend architectures
+
+My focus is on building marketing tools that operate inside the LLM ecosystem — not outside it.
 
 
 ## 🌐 Socials:
